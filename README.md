@@ -1,16 +1,22 @@
-### Hi there 👋
+### I love challenging ideas,</br>
+### Im greatfull for the great ideas people give,</br>
+### I love the overall helpfull community</br> 
+# About:
+Im a sort off experienced coder,</br>
+I did HTML for alittle over a year</br>
+I did javascript for 4 months</br>
+And python for 7 months</br>
 
-<!--
-**RP400/RP400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Computer Launguages i know:
+- HTML
+- JavaScript
+- Python
 
-Here are some ideas to get you started:
+# Spoken languages:
+- French
+- English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Computer languages i wish to learn:
+c++ </br>
+lua </br>
+
