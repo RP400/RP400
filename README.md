@@ -1,6 +1,6 @@
 ### I love challenging ideas,</br>
 ### Im greatfull for the great ideas people give,</br>
-### I love the overall helpfull community</br> 
+### I love the overall helpfull community ;)</br> 
 # About:
 Im a sort off experienced coder,</br>
 I did HTML for alittle over a year</br>
@@ -20,3 +20,6 @@ And python for 7 months</br>
 c++ </br>
 lua </br>
 
+# Hobbies:
+- Skateboarding
+- Coding
