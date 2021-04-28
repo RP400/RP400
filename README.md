@@ -2,6 +2,7 @@
 ### Im greatfull for the great ideas people give,</br>
 ### I love the overall helpfull community 😃</br> 
 # About 📚:
+I absolutely love maths!</br>
 Im a sort off experienced coder,</br>
 I did HTML for alittle over a year</br>
 I did javascript for 4 months</br>
