@@ -17,8 +17,8 @@ And python for 7 months</br>
 - English
 
 # Computer languages i wish to learn:
-c++ </br>
-lua </br>
+- c++
+- lua
 
 # Hobbies:
 - Skateboarding
